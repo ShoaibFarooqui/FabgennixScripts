@@ -162,3 +162,4 @@ cython_debug/
 # All Fabgennix Data
 # block all csv files
 *.csv
+*.xlsx
